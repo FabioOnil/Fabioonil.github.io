@@ -1,6 +1,5 @@
-# Este é o meu primeiro repositorio git
+# Lista das linguagem que eu programo
 
-Neste repositorio coloquei o meu portifolio de desenvolvedor
-
-Agora eu quero falar mais sobre mim, e o que eu quero falar é que 
-eu tinha esquecido de falar o que eu queria falar, 
+- pythin
+- Javascript
+- java
