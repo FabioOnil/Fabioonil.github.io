@@ -16,6 +16,5 @@ Quero testar se estou conseguindo enviar ao GitHub
 
 quero testar os pull requests do GitHub
 
-Estou adorando utilizar os pell requests do GitHUb, assim meu fluxo de
- trabalho fica muito mais profissional, e pessoas podem revisar oq eu estou
- mudando.
+Estou adorando utilizar os pull requests do GitHUb, assim meu fluxo de
+ trabalho fica muito mais profissional, e pessoas podem revisar oq eu  estou mudando.
